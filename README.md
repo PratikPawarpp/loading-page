@@ -13,23 +13,22 @@ awesome.min.css">
 <style>
 
 Input[type=text]
-
-T
-
+{
 width:200px;
-
-display:inline; padding:10px;
-
+}
+li{
+display:inline;
+ padding:10px;
 font-size:25px;
-
-1
-
+}
 header
-
+{
 background-color green
 
 padding:10px;
-
+}
+a
+{
 display flex
 
 margin-top:400px;
@@ -39,9 +38,9 @@ padding-right:20px;
 margin-bottom:400px; text-align:justify
 
 font-family:"Times New Roman", Times, serif;
-
+}
 aboutus
-
+{
 text-align:justify;
 
 nav li a:hover background-color:red;
@@ -49,27 +48,23 @@ nav li a:hover background-color:red;
 width:30px;
 
 border-radius:5px
-
-1
-
+}
 #b
-
+{
 background-color:red;
 
 padding:20px; font-size:20px;
 }
 P
-
+{
 margin-bottom:40p
 
-nava
-
+nav li a
+{
 text-decoration:none;
-
-F
-
+}
 sticky
-
+{
 position: fixed;
 
 top: 0
