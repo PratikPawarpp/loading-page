@@ -89,7 +89,8 @@ margin-top:400px
 
 do-mg sro"C:\Users\AS Lab-09\Desktop\images.jpg" style="height:50px;width:50px"></b> <style="color:red;">Karmayogi Institute Of Technology</li>
 
-<a href="#home">home<a><li>ahref="#about>about us</a></li>
+<a href="#home">home<a>
+<li><a href="#about>about us</a></li>
 
 <a href="#csecse</a></li>
 
